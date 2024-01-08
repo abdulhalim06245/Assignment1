@@ -1,0 +1,33 @@
+.heading-title{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;padding-top: 100px;
+}
+
+nav p{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+}
+.p1{
+    padding-top: 30px;
+
+}
+.p2{
+    padding-bottom: 130px;
+}
+
+.header{
+    background-image: url(../resources/Banner\ Image.png)
+}
+
+
+
